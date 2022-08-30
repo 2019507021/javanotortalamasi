@@ -1,5 +1,10 @@
 # javanotortalamasi
 
+
+
+
+
+
 import java.util.Scanner;
 
 public class notortalamasi {
